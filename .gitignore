@@ -1,0 +1,7 @@
+# Project exclude paths
+/Controller/target/
+/entities/target/
+/mappers/target/
+/out/
+/service/target/
+/webapp/target/
